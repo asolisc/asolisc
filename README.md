@@ -19,6 +19,8 @@
 	<img title="R" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="60" />
 	<img title="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="70" />
 	<img title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="60" />
+	<img title="PostgreSQL" src="https://banner2.cleanpng.com/20180806/zfw/kisspng-postgresql-clip-art-database-logo-web-design-strategy-relik-5b67d8468fcf82.2394477615335322305891.jpg" height="80" />
+	
 </p>
 
 - Favorite R Packages:
