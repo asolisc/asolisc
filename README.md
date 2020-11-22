@@ -9,10 +9,8 @@
 - ⚡ Fun fact: I'm a chess enthusiast.
 
 
-- 💻 Skills 
-
+- 💻 Skills:
 &nbsp;
-
 <p align="left">
 	<img title="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
